@@ -1,6 +1,5 @@
-<h1 align="center">Kenny Rakentine</h1>
+<h1 align="center"><img align="center" src="https://i.ibb.co/Yb0MVcc/Name-Logo-for-GITHUB-8-10-23.png"/></h1>
 <h3 align="center">Software Engineer</h3>
-<img src="https://i.ibb.co/Yb0MVcc/Name-Logo-for-GITHUB-8-10-23.png"/>
 
 - 📫 How to reach me **www.linkedin.com/in/kenneth-rakentine**
 
