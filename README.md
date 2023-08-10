@@ -1,5 +1,6 @@
 <h1 align="center">Kenny Rakentine</h1>
 <h3 align="center">Software Engineer</h3>
+<img src="https://i.ibb.co/MnmhbGX/Untitled-Design-1.png" width="700" height="370"/>
 
 - 📫 How to reach me **www.linkedin.com/in/kenneth-rakentine**
 
