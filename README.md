@@ -1,5 +1,5 @@
 <h1 align="center"><img align="center" src="https://i.ibb.co/Yb0MVcc/Name-Logo-for-GITHUB-8-10-23.png"/></h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer U+2707</h3>
 
 - 📫 How to reach me **www.linkedin.com/in/kenneth-rakentine**
 
