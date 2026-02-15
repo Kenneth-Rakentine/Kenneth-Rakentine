@@ -13,5 +13,4 @@
 <br>
 <img src="https://i.ibb.co/PrD975B/Aplus-Logo-Certified-CE-White.png" alt="comptia" height="40" width="40" /> 
 
-![kenneth-rakentine's Stats](https://github-readme-stats.vercel.app/api?username=kenneth-rakentine&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![kenneth-rakentine's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-rakentine&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+
