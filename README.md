@@ -11,6 +11,6 @@
 <br>
 <hr>
 <br>
-<img src="https://i.ibb.co/PrD975B/Aplus-Logo-Certified-CE-White.png" alt="comptia" height="40" width="40" /> 
+<img src="[https://i.ibb.co/PrD975B/Aplus-Logo-Certified-CE-White.png](https://images.credly.com/images/16e139a1-0b3d-4bef-a0c6-56356ad944a6/blob)" alt="comptia" height="40" width="40" /> 
 
 
