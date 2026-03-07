@@ -34,9 +34,6 @@
   <img src="./assets/badges/cysa2.png" alt="CompTIA CySA+" height="52" border="0">
 </a>
 
-<a href="https://www.credly.com/badges/8d3bee02-9b59-4998-9db5-89943ff0f72d/public_url" style="text-decoration:none; display:inline-block;">
-  <img src="./assets/badges/projectplus2.png" alt="CompTIA Project+" height="52" border="0">
-</a>
 
 <img src="./assets/badges/itil42.png" alt="ITIL 4 Foundation" height="46" border="0">
 
