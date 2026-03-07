@@ -37,6 +37,6 @@
 
 <img src="./assets/badges/itil42.png" alt="ITIL 4 Foundation" height="46" border="0">
 
-<img src="./assets/badges/linuxessentials2.png" alt="Linux Essentials" height="46" border="0">
+<img src="./assets/badges/linuxessentials2.png" alt="Linux Essentials" height="44" border="0">
 
 </p>
