@@ -17,18 +17,18 @@
 <br>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/47fb8eaa-ea9e-454c-bdfd-5820e1795560/public_url">
-    <img src="./assets/badges/aplus.png" alt="CompTIA A+" height="52" style="border:0; margin:0 8px; filter:grayscale(100%);" />
+  <a href="https://www.credly.com/badges/47fb8eaa-ea9e-454c-bdfd-5820e1795560/public_url" style="text-decoration:none; display:inline-block;">
+    <img src="./assets/badges/aplus.png" alt="CompTIA A+" height="52" border="0" />
   </a>
-  <a href="https://www.credly.com/badges/90d14a95-25e6-4a43-acc2-fc95e58e9d46/public_url">
-    <img src="./assets/badges/networkplus.png" alt="CompTIA Network+" height="52" style="border:0; margin:0 8px; filter:grayscale(100%);" />
+  <a href="https://www.credly.com/badges/90d14a95-25e6-4a43-acc2-fc95e58e9d46/public_url" style="text-decoration:none; display:inline-block;">
+    <img src="./assets/badges/networkplus.png" alt="CompTIA Network+" height="52" border="0" />
   </a>
-  <a href="https://www.credly.com/badges/33b7b9b6-2c36-4d09-a220-12a4d7808ef5/public_url">
-    <img src="./assets/badges/securityplus.png" alt="CompTIA Security+" height="52" style="border:0; margin:0 8px; filter:grayscale(100%);" />
+  <a href="https://www.credly.com/badges/33b7b9b6-2c36-4d09-a220-12a4d7808ef5/public_url" style="text-decoration:none; display:inline-block;">
+    <img src="./assets/badges/securityplus.png" alt="CompTIA Security+" height="52" border="0" />
   </a>
-  <a href="https://www.credly.com/badges/8d3bee02-9b59-4998-9db5-89943ff0f72d/public_url">
-    <img src="./assets/badges/cysa.png" alt="CompTIA CySA+" height="52" style="border:0; margin:0 8px; filter:grayscale(100%);" />
+  <a href="https://www.credly.com/badges/8d3bee02-9b59-4998-9db5-89943ff0f72d/public_url" style="text-decoration:none; display:inline-block;">
+    <img src="./assets/badges/cysa.png" alt="CompTIA CySA+" height="52" border="0" />
   </a>
-  <img src="./assets/badges/itil4.png" alt="ITIL 4 Foundation" height="46" style="border:0; margin:0 8px; filter:grayscale(100%);" />
-  <img src="./assets/badges/linuxessentials.png" alt="Linux Essentials" height="46" style="border:0; margin:0 8px; filter:grayscale(100%);" />
+  <img src="./assets/badges/itil4.png" alt="ITIL 4 Foundation" height="46" border="0" />
+  <img src="./assets/badges/linuxessentials.png" alt="Linux Essentials" height="46" border="0" />
 </p>
