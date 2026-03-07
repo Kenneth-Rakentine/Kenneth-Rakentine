@@ -16,26 +16,25 @@
 <hr>
 <br>
 
-<p align="center">
 
-  <a href="CREDLY_LINK">
+
+
     <img src="./assets/badges/aplus.png" height="48">
-  </a>
+ 
 
-  <a href="CREDLY_LINK">
+
     <img src="./assets/badges/networkplus.png" height="48">
-  </a>
 
-  <a href="CREDLY_LINK">
+
+
     <img src="./assets/badges/securityplus.png" height="48">
-  </a>
 
-  <a href="CREDLY_LINK">
+
+
     <img src="./assets/badges/cysa.png" height="48">
-  </a>
+  
 
   <img src="./assets/badges/itil4.png" height="48">
   <img src="./assets/badges/linuxessentials.png" height="48">
 
-</p>
 
