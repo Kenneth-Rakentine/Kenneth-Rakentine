@@ -2,9 +2,7 @@
   <img src="./assets/logo/kennylogo.png">
 </h1>
 <h3 align="center">⇥ { Software Engineer } 〆</h3>
-
-- 📫 How to reach me: **[Contact](rakentine.k@gmail.com)**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kenneth-rakentine" target="blank">
