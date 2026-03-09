@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">⇥ { Software Engineer } 〆</h3>
 
-- 📫 How to reach me **[Contact](https://kenneth-rakentine.github.io/Portfolio-2026/contact)**
+- 📫 How to reach me: **[Contact](rakentine.k@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
