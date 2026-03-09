@@ -17,7 +17,7 @@
 <p align="center">
 
 <a href="https://www.credly.com/badges/47fb8eaa-ea9e-454c-bdfd-5820e1795560/public_url" style="text-decoration:none; display:inline-block;">
-  <img src="./assets/badges/aplus2.png" alt="CompTIA A+" height="52" border="0">
+  <img src="./assets/badges/aplus2.png" alt="CompTIA A+" height="72" border="0">
 </a>
 
 <a href="https://www.credly.com/badges/90d14a95-25e6-4a43-acc2-fc95e58e9d46/public_url" style="text-decoration:none; display:inline-block;">
