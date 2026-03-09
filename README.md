@@ -33,8 +33,8 @@
 </a>
 
 
-<img src="./assets/badges/itil42.png" alt="ITIL 4 Foundation" height="66" border="0">
+<img src="./assets/badges/itil42.png" alt="ITIL 4 Foundation" height="56" border="0">
 
-<img src="./assets/badges/linuxessentials2.png" alt="Linux Essentials" height="62" border="0">
+<img src="./assets/badges/linuxessentials2.png" alt="Linux Essentials" height="52" border="0">
 
 </p>
