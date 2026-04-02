@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="./assets/logo/kennylogo.png">
 </h1>
-<h3 align="center">⇥ { Software Engineer } ⊹ <img width="91" height="22" alt="image" src="https://github.com/user-attachments/assets/220acec6-16ac-4439-8ab8-578815e829aa" />
+<h3 align="center">⇥ { Software Engineer } ᯓ
+ <img width="91" height="22" alt="image" src="https://github.com/user-attachments/assets/220acec6-16ac-4439-8ab8-578815e829aa" />
 </h3>
 <br>
 <h3 align="left">Connect with me:</h3>
