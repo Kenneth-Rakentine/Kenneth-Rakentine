@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="./assets/logo/kennylogo.png">
 </h1>
-<h3 align="center">⇥ {[ WEBSITE ](https://kenneth-rakentine.github.io/Portfolio-2026/) } ᯓ
+<h3 align="center">⇥ { <a href="https://kenneth-rakentine.github.io/Portfolio-2026/" target="_blank">WEBSITE</a>  } ᯓ
  
 </h3>
 <br>
